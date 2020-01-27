@@ -1,1 +1,1 @@
-# RenewableEnergyCausalInference
+# Renewable Energy Causal Inference
